@@ -35,6 +35,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghakancharla&theme=tokyonight" />
 </p>
 
+<div align="center"><img src="https://komarev.com/ghpvc/?username=amoghakancharla&style=circle&color=dd6286" alt="views"/></div>
+
  
  
 
