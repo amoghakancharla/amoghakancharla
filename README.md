@@ -2,11 +2,12 @@
 <h3 align="center"> Thanks for stopping by :) </h3>
 <img align="center" src="https://media1.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e478a1rjmg11u357eyxt3tvdhydhp7naishbfiheezm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="750">
 
-<h2> About Me:</h2>
+<h2 align="left"> About:</h2>
+ 
 
-- 🤔 &nbsp; Building Data Pipelines and Cloud Native Projects.
-- 🌱 &nbsp; She is currently learning AWS, DevOps, ML
-- 💬 &nbsp; Talks about Open Source, AWS, Cloud-Native
+- 🤔 &nbsp; Currently working on Data Pipelines and Cloud Native Projects.
+- 🌱 &nbsp; I'm learning AWS, DevOps, ML
+- 💬 &nbsp; Talks about Open Source, AWS, Cloud-Native & Communities
 
 
 <h3 align="left">Connect with me:</h3>
