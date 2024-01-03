@@ -1,6 +1,14 @@
 <h1 align="middle">Hi 👋, I'm Amogha Kancharla</h1>
 <h3 align="center"> Thanks for stopping by! </h3>
 <img align="center" src="https://media1.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e478a1rjmg11u357eyxt3tvdhydhp7naishbfiheezm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="550">
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amoghak_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amoghakancharla) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amoghak17)
  
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -10,12 +18,6 @@
 - 💬 &nbsp; Ask me about Open Source, AWS, Cloud-Native
 - ✍️ &nbsp; I write at https://amoghak17.hashnode.dev/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amoghak_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amoghakancharla) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amoghak17)
 
 
 [![Amogha's  github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amoghakancharla&theme=dracula)](https://github.com/amoghak-ds/github-readme-activity-graph)
