@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Building Data Pipelines and Cloud Native Projects.
 - 🌱 &nbsp; She is currently learning AWS, DevOps, ML
 - 💬 &nbsp; Talks about Open Source, AWS, Cloud-Native
-- ✍️ &nbsp; I write at https://amoghak17.hashnode.dev/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
