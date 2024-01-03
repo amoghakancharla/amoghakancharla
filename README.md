@@ -4,9 +4,9 @@
 
 <h2> About Me:</h2>
 
-- 🤔 &nbsp; Building Data Pipelines and Cloud Projects.
-- 🌱 &nbsp; Learning AWS, DevOps, ML
-- 💬 &nbsp; Ask me about Open Source, AWS, Cloud-Native
+- 🤔 &nbsp; Building Data Pipelines and Cloud Native Projects.
+- 🌱 &nbsp; She is currently learning AWS, DevOps, ML
+- 💬 &nbsp; Talks about Open Source, AWS, Cloud-Native
 - ✍️ &nbsp; I write at https://amoghak17.hashnode.dev/
 
 <h3 align="left">Connect with me:</h3>
