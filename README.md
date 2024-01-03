@@ -5,7 +5,7 @@
 <h2 align="left"> About:</h2>
  
 
-- 🤔 &nbsp; Currently working on Data Pipelines and Cloud Native Projects.
+- 🤔 &nbsp; Currently working on Data Pipelines and Cloud Native Projects
 - 🌱 &nbsp; I'm learning AWS, DevOps, ML
 - 💬 &nbsp; Talks about Open Source, AWS, Cloud-Native & Communities
 
