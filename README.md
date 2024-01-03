@@ -2,6 +2,12 @@
 <h3 align="center"> Thanks for stopping by! </h3>
 <img align="center" src="https://media1.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e478a1rjmg11u357eyxt3tvdhydhp7naishbfiheezm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="550">
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🤔 &nbsp; Building Data Pipelines and Cloud Projects.
+- 🌱 &nbsp; Learning AWS, DevOps, ML
+- 💬 &nbsp; Ask me about Open Source, AWS, Cloud-Native
+- ✍️ &nbsp; I write at https://amoghak17.hashnode.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,13 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amoghakancharla) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amoghak17)
  
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Building Data Pipelines and Cloud Projects.
-- 🌱 &nbsp; Learning AWS, DevOps, ML
-- 💬 &nbsp; Ask me about Open Source, AWS, Cloud-Native
-- ✍️ &nbsp; I write at https://amoghak17.hashnode.dev/
 
 
 
